@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/challenges/">
+    <Project Path="challenges/02a/02a.csproj" />
+    <Project Path="challenges/02b/02b.csproj" />
+  </Folder>
+  <Folder Name="/exercises/">
+    <Project Path="exercises/01a-brush-teeth/01a-brush-teeth.csproj" />
+    <Project Path="exercises/02-exercises/02-exercises.csproj" />
+  </Folder>
+  <Project Path="01-hello/01-hello.csproj" />
+  <Project Path="02-variables/02-variables.csproj" />
+  <Project Path="02b-operations/02b-operations.csproj" />
+  <Project Path="03-strings/03-strings.csproj" />
+  <Project Path="04-input-output/04-input-output.csproj" />
+  <Project Path="05-control-flow/05-control-flow.csproj" />
+</Solution>
