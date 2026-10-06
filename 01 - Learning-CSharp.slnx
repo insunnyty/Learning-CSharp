@@ -1,4 +1,5 @@
 <Solution>
+  <Folder Name="/08-classes/" />
   <Folder Name="/challenges/">
     <Project Path="challenges/02a/02a.csproj" />
     <Project Path="challenges/02b/02b.csproj" />
@@ -16,4 +17,7 @@
   <Project Path="05b-conditions/05b-conditions.csproj" />
   <Project Path="05c-else-if/05c-else-if.csproj" />
   <Project Path="06-logical-operators/06-logical-operators.csproj" />
+  <Project Path="07-loop-for/07-loop-for.csproj" />
+  <Project Path="07b-loop-while/07b-loop-while.csproj" />
+  <Project Path="08-classes/08-classes.csproj" />
 </Solution>
